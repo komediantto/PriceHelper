@@ -41,12 +41,13 @@ python bot.py
 
 ## Скриншоты бота
 
-![[Снимок экрана от 2023-06-22 12-10-34.png]]
+![Снимок экрана от 2023-06-22 12-10-34](https://github.com/komediantto/PriceHelper/assets/62796239/0f647df8-86d3-49e5-914f-3b588bc36898)
 
-![[Снимок экрана от 2023-06-22 12-10-43.png]]
+![Снимок экрана от 2023-06-22 12-10-43](https://github.com/komediantto/PriceHelper/assets/62796239/968f7c31-8329-40b5-83ce-fb02af170478)
 
-![[Снимок экрана от 2023-06-22 12-11-19.png]]
+![Снимок экрана от 2023-06-22 12-11-19](https://github.com/komediantto/PriceHelper/assets/62796239/b8dd01d1-6775-4e88-9111-d3bd6d74fe31)
 
-![[Снимок экрана от 2023-06-22 12-11-36.png]]
+![Снимок экрана от 2023-06-22 12-11-36](https://github.com/komediantto/PriceHelper/assets/62796239/fa18e4c7-9577-49dc-adb6-b9e397f9b5b7)
 
-![[Снимок экрана от 2023-06-22 12-11-49.png]]
+![Снимок экрана от 2023-06-22 12-11-49](https://github.com/komediantto/PriceHelper/assets/62796239/5f1fc9f3-25a3-46eb-8ad5-a888b63dfd8c)
+
